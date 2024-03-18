@@ -26,6 +26,7 @@ As a recent graduate in Electrical and Electronics Engineering, I'm deeply passi
 * Developed a desktop applications using .NET framework (sales system and other tools) using vb.net.
 * Designed and deployed a web application and CRUD systems using (Django,HTML,css,js and postgresql) and using (.NET core, sql server and c# programming language)
 * Worked in company owns a flutter app that provides payment solutions and prepaid and voucher cards (dealt with microservices architecture, azure service bus, CQRS and event sourcing).
+* wrote a collection of some [general articles](https://m-beayou.netlify.app/posts/the-knight-and-the-sword-of-time) that went viral (10000 reach somehow!) and received some positive reviews
 * built and analyzed a ball and plate balancing system using Arduino, Matlab and PID controller and tried to apply other types of controllers (lead lag, MPC, LQR)
 * Extensive experience in control systems, networking principles, and IoT development during my studies at college and projects.
 
@@ -43,7 +44,7 @@ As a recent graduate in Electrical and Electronics Engineering, I'm deeply passi
 **Connect with me:**
 
 * LinkedIn: [linkedin](https://www.linkedin.com/in/mohammed-s-baayou/)
-* general blog:[my Blog](https://m-beayou.netlify.app/)
+* general blog: [my Blog](https://m-beayou.netlify.app/)
 * porfolio and technical blog:
 * Email: msdbgx@gmail.com
 
@@ -53,8 +54,6 @@ As a recent graduate in Electrical and Electronics Engineering, I'm deeply passi
 * Job opportunities
 * intrenships
 * Collaboration on interesting projects
-* 
 
-**I'm always eager to learn and collaborate, so feel free to reach out!**
 
-**P.S.** Looking for a fun fact? I published a multivariable calculus calculator app to help students with their studies!
+*I'm always eager to learn and collaborate, so feel free to reach out!*
