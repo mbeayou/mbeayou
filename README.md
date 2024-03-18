@@ -29,7 +29,7 @@ As a recent graduate in Electrical and Electronics Engineering, I'm deeply passi
 * Wrote a collection of some [general articles](https://m-beayou.netlify.app/posts/the-knight-and-the-sword-of-time) that went viral (+10000 visits, somehow!) and received some positive reviews
 * Built and analyzed a ball and plate balancing system using Arduino, Matlab and PID controller and tried to apply other types of controllers (lead lag, MPC, LQR)
 * Extensive experience in control systems, networking principles, and IoT development during my studies at college and projects.
-* Created and designed a bunch of [graphics](https://www.behance.net/medobaayou) for diffrent companies and individuals using illustrator and adobe photoshop 
+* Created and designed a bunch of [graphics](https://www.behance.net/medobaayou) for diffrent companies and individuals using tools like illustrator and adobe photoshop 
 
 **Skills:**
 
